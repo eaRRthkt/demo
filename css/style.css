@@ -121,6 +121,15 @@ main {
     margin: 5rem 0 5rem 0;
 }
 
+/*リスト表示 20230523 追加
+ -----------------------------------*/
+.list1 {
+    padding-bottom:10px;
+}
+.list1 ul li {
+    padding:10px 0;
+    list-style:inside;
+}
 /*新着情報
 -------------------------------------*/
 .news h2 {
